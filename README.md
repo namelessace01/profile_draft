@@ -4,7 +4,7 @@ My interactive CV/resume showcasing my journey from Computer Science graduate to
 
 ## 🌐 Live CV
 
-**View online:** [https://namelessace01.github.io](https://namelessace01.github.io)
+**View online:** Not Deployed
 
 ## 👨‍💻 About
 
